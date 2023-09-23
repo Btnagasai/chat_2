@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Chat2x",
+      title: "Chat2x bundle",
       home: HomeScreen(),
     );
   }
